@@ -1,0 +1,12 @@
+{
+    "domain": "foobar2k",
+    "name": "Foobar 2000 Player",
+    "documentation": "https://github.com/ozczecho/custom_components",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": [
+        "@ozczecho"
+    ],
+    "config_flow": true,
+    "version": "0.3.1"
+}
